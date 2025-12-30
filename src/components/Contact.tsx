@@ -15,7 +15,7 @@ export default function Contact() {
           className="text-center mb-16"
         >
           <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-gray-400 text-xl">Ready to build something amazing together?</p>
         </motion.div>
