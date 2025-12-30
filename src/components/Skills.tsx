@@ -58,7 +58,7 @@ export default function Skills() {
                       />
                     </div>
                   </motion.div>
-                ))}}
+                ))
               </div>
             </motion.div>
           ))}

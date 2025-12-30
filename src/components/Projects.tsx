@@ -56,7 +56,7 @@ export default function Projects() {
           <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-accent to-secondary bg-clip-text text-transparent">
             Featured Projects
           </h2>
-          <p className="text-gray-400 text-xl">Innovative solutions I've built</p>
+          <p className="text-gray-400 text-xl">Innovative solutions I&apos;ve built</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
